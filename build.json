@@ -1,0 +1,22 @@
+{
+    "version": "1",
+    "release": "1.0",
+    "css" : {
+        "main" : [
+            "sources/css/bootstrap.css",
+            "sources/css/bootstrap-responsive.css",
+            "sources/css/social-buttons.css",
+            "sources/css/style.css"
+        ]
+    },
+    "js": {
+        "codes": [
+            "sources/js/library/jquery-1.8.2.min.js",
+            "sources/js/library/bootstrap.js",
+            "sources/js/jquery-plugins/jquery.scrollTo-1.4.3.1.min.js",
+            "sources/js/jquery-plugins/jquery.scrollorama.js",
+            "sources/js/jquery-plugins/jquery.scrolldeck.js",
+            "sources/js/site/main.js"
+        ]
+    }
+}
